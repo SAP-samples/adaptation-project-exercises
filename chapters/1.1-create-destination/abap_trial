@@ -1,0 +1,15 @@
+#clientSecret=<< Existing password/certificate removed on export >>
+#
+#Fri May 24 11:26:12 UTC 2024
+Type=HTTP
+clientId=<CLIENTID>
+HTML5.Timeout=60000
+HTML5.DynamicDestination=true
+Authentication=OAuth2UserTokenExchange
+WebIDEUsage=odata_abap,dev_abap,abap_cloud
+Name=abap_trial
+WebIDEEnabled=true
+tokenServiceURL=<UAA>url>/oauth/token
+URL=https://<ENDPOINT>ABAP>
+ProxyType=Internet
+tokenServiceURLType=Dedicated

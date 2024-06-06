@@ -1,41 +1,21 @@
-# SAP-samples/repository-template
-This default template for SAP Samples repositories includes files for README, LICENSE, and .reuse/dep5. All repositories on github.com/SAP-samples will be created based on this template.
+# UI5con 2024 - Empowering Developer Extensibility with SAPUI5 Adaptation Projects
 
-# Containing Files
+Are you looking to enhance your application customization skills? Join us for this hands-on workshop where we will delve into the world of SAPUI5 Adaptation Projects and discover how they can revolutionize the way you extend SAPUI5 applications.
 
-1. The LICENSE file:
-In most cases, the license for SAP sample projects is `Apache 2.0`.
+In this workshop, we will guide you through a compact tutorial that will equip you with practical knowledge on creating adaptation projects from scratch. You will learn how to leverage low-code techniques to extend released SAPUI5 applications in a structured and efficient manner. By the end of the session, you will have a solid understanding of how to utilize controller and fragment extensions to unlock new levels of usability and functionality.
 
-2. The .reuse/dep5 file: 
-The [Reuse Tool](https://reuse.software/) must be used for your samples project. You can find the .reuse/dep5 in the project initial. Please replace the parts inside the single angle quotation marks < > by the specific information for your repository.
+Whether you are a seasoned SAPUI5 developer or have prior experience with adaptation projects, this workshop is designed to take your skills to the next level. You will gain hands-on experience and learn best practices for creating powerful and flexible adaptations that meet the unique needs of your applications.
 
-3. The README.md file (this file):
-Please edit this file as it is the primary description file for your project. You can find some placeholder titles for sections below.
+Prerequisites to follow along in the SAP Business Application Studio:
+- Create a trial account on SAP BTP in US10 - https://developers.sap.com/tutorials/hcp-create-trial-account.html
+- Set up your SAP BTP, ABAP environment - https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html
+ℹ️ This will automatically set up a SAP Business Application Studio as well as an SAP BTP, ABAP environment!
+- Optional for integration with Git: GitHub account and repository for the exercise (https://github.com/)
 
-# [Title]
-<!-- Please include descriptive title -->
+Prerequisites to follow along the deployment and SAP Fiori Launchpad configuration in SAP BTP, ABAP environment
+- Download and install the latest ABAP Development Tools (ADT) - https://tools.hana.ondemand.com/#abap
+- Create an ABAP Cloud Project - https://developers.sap.com/tutorials/abap-environment-create-abap-cloud-project.html
 
-<!--- Register repository https://api.reuse.software/register, then add REUSE badge:
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
--->
-
-## Description
-<!-- Please include SEO-friendly description -->
-
-## Requirements
-
-## Download and Installation
-
-## Known Issues
-<!-- You may simply state "No known issues. -->
-
-## How to obtain support
-[Create an issue](https://github.com/SAP-samples/<repository-name>/issues) in this repository if you find a bug or have questions about the content.
- 
-For additional support, [ask a question in SAP Community](https://answers.sap.com/questions/ask.html).
-
-## Contributing
-If you wish to contribute code, offer fixes or improvements, please send a pull request. Due to legal reasons, contributors will be asked to accept a DCO when they create the first pull request to this project. This happens in an automated fashion during the submission process. SAP uses [the standard DCO text of the Linux Foundation](https://developercertificate.org/).
 
 ## License
 Copyright (c) 2024 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
