@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/adaptation-project-exercises)](https://api.reuse.software/info/github.com/SAP-samples/adaptation-project-exercises)
+
 # UI5con 2024 - Empowering Developer Extensibility with SAPUI5 Adaptation Projects
 
 Are you looking to enhance your application customization skills? Join us for this hands-on workshop where we will delve into the world of SAPUI5 Adaptation Projects and discover how they can revolutionize the way you extend SAPUI5 applications.
