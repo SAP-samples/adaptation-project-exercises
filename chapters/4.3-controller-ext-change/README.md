@@ -62,7 +62,7 @@ sap.ui.define(
 ```
   
   Make sure you have entered the namespace of your project and the right name of your controller extension file in the markup for that.
-  Some hint for the namespace: if should be in the following format: ``` {id of the Adp project located in the manifest.appdescr_variant file}/{controller name}  ``` e.g: ``` customer.demo.travel.appvar.z554627/democontroller ```
+  Some hint for the namespace: it should be in the following format: ``` {id of the Adp project located in the manifest.appdescr_variant file}/{the name of the created controller}  ``` e.g: ``` customer.demo.travel.appvar.z554627/democontroller ```
 
 
 
