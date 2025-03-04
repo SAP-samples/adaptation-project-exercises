@@ -11,10 +11,14 @@ By the end of this chapter you will have generated Adaptation Project which will
 ## Create Apdaptation Project
 After the wizard is started there are several steps that needs to be completed in order to create Adaptation Project.
 
-### 1. Target Environment
+### 1. Configuration
 
-   1. Select ABAP as the target environment in which you want to create your new application variant and choose Next.
-<img src="img/environment.png" width="1000" />
+   1. Enter the Configuration information required for your adaptation project:
+         - From the Select System dropdown list select the system you want to use.
+         - From the dropdown list in the Select Application field, choose "Demo App for Travel V2 (sap.demo.travel.v2)" the SAP Fiori application that will be as the basis for your application variant.
+         - To enhance the application with additional capabilities and logic, you need to select the No option in answer to Enable Safe Mode?
+   2. Press the Next button.
+<img src="img/configuration.png" width="1000" />
 
 ### 2. Basic Information
 
