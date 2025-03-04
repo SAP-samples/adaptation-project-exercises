@@ -1,4 +1,4 @@
-# Chapter 4.2 - Add controller extension changes
+# Chapter 4.3 - Add controller extension changes
 
 
 ## Start the Adaptation Editor
