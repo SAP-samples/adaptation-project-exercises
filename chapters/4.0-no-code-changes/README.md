@@ -29,7 +29,7 @@ Let's start editing our Adpatation Project from [Chapter 2.0](/chapters/2.0-get-
    <img src="img/saved-move-change.png" width="1000" style="margin-top:10px"/>
 
 ## 4. Property change
-   - Go to the List Report Page - right click with your mouse somewhere in Control Property Editor browser tab and then from the opened context menu click Back button or refresh Control Property Editor browser tab.
+   - Go to the List Report Page - refresh the browser tab.
    - Click on the SmartFilterBar. On the properties pane tab you should see all available properties that can be edited for each selected control. In our case let`s edit "Show Clear OnFB" property. Click on the "✓" icon. As a result next to the "Go" button you should see that a new button with text "Clear" is shown. 
 <img src="img/unsaved-property-change.png" width="1000" style="margin-top:10px"/>
 If you want to save your change you should click on "Save" button in the menu toolbar located on the top of the application. Once you do it in changes tab you will see that the status on your unsaved changed has been changed. If you want to see the generated change file you should open "webapp/changes/" folder of your application in BAS.
