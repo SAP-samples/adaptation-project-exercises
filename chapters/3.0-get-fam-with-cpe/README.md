@@ -1,4 +1,4 @@
-# Chapter 3.0 - Get familiar with Adaptation
+# Chapter 3.0 - Get familiar with Adaptation Editor
 
 ## Description
 

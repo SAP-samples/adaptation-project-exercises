@@ -31,20 +31,4 @@ After the wizard is started there are several steps that needs to be completed i
 
 As soon as your SAPUI5 Adaptation Project has been created, the following message is displayed “The project has been generated and will be saved for future use.” You can view the adaptation project when you open the folder specified in Basic Information step.
 
-## Add Fiori Launchpad and Deploy configurations.
-
-After the project is generated. We should add Fiori Launchpad and Deploy configurations to the already created Adaptation Project.
-
-
-   NOTE: If you had difficulties in creating package and transport request from [Chapter 1.3](/chapters/1.3-create-package-adt/) you can use the following data:
-   - Package: Z_UI5CON_HANDSON
-   - Transport Request: TRLK911207
-  
-   <img src="img/deployment-configuration.png" width="1000" />
-   
-
-
-
-
-
 Continue to [Chapter 3.0 - Get familiar with Control Property Editor!](/chapters/3.0-get-fam-with-cpe/)
