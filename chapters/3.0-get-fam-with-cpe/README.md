@@ -41,5 +41,5 @@ The Adaptation Editor is a software tool that allows users to view and modify th
 7. Save and Reset Controls: 
    - Provides options for saving changes made to properties or resetting properties to their default values.
 
-Continue to [Chapter 4.0 - Create No Code changes with Adaptation Editor Editor](/chapters/4.0-no-code-changes/)
+Continue to [Chapter 4.0 - Create No Code changes with Adaptation Editor](/chapters/4.0-no-code-changes/)
   

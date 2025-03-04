@@ -1,4 +1,4 @@
-# Chapter 4.0 - Create No Code changes with Control Property Editor
+# Chapter 4.0 - Create No Code changes with Adaptation Editor
 
 Let's start editing our Adpatation Project from [Chapter 2.0](/chapters/2.0-get-fam-with-gen/)
 
