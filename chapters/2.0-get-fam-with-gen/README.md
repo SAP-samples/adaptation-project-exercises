@@ -31,4 +31,4 @@ After the wizard is started there are several steps that needs to be completed i
 
 As soon as your SAPUI5 Adaptation Project has been created, the following message is displayed “The project has been generated and will be saved for future use.” You can view the adaptation project when you open the folder specified in Basic Information step.
 
-Continue to [Chapter 3.0 - Get familiar with Control Property Editor!](/chapters/3.0-get-fam-with-cpe/)
+Continue to [Chapter 3.0 - Get familiar with Adaptation Editor!](/chapters/3.0-get-fam-with-cpe/)
