@@ -72,4 +72,4 @@ sap.ui.define(
 
 Optionally if you're really fast and want to do more coding - continue to [Chapter 5.0 - Add keys to i18n file](/chapters/5.0-add-keys-in-i18n/).
 
-Or continue to [Chapter 6.0 - Build and deploy your application to SAP BTP, ABAP environment](/chapters/6.0-build-and-deploy/)
+Or continue to [Chapter 6.0 -  Add Fiori Launchpad and Deploy configurations to your SAPUI5 Adaptation Project and deploy to your prepared SAP BTP, ABAP environment](/chapters/6.0-add-flp-deploy-config/)

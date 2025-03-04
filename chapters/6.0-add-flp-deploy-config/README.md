@@ -1,4 +1,4 @@
-# Chapter 6.0 - Add Fiori Launchpad and Deploy configurations to your SAPUI5 Adaptation Project
+# Chapter 6.0 - Add Fiori Launchpad and Deploy configurations to your SAPUI5 Adaptation Project and deploy to your prepared SAP BTP, ABAP environment
 
 In this chapter you will add Fiori Launchpad and Deploy configurations, build and deploy your SAPUI5 adaptation project to your prepared SAP BTP, ABAP environment.
 
