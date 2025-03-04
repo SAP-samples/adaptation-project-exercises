@@ -23,8 +23,9 @@ After the wizard is started there are several steps that needs to be completed i
 ### 2. Basic Information
 
    1. Enter the Basic Information required for your adaptation project:
-      - Project Name: uniquely identifiable name "demo.travel.appvar.{your unique number}"
-      - Application Title: uniquely identifiable name "Demo Travel {your unique number}"
+      - Project name: uniquely identifiable name "demo.travel.appvar.{your unique number}"
+      - Application title: uniquely identifiable name "Demo Travel {your unique number}"
+      - Project folder path: choose the project folder from the current opened workspace in the which the project should be created. 
    2. Press the Next button.
 <img src="img/basic-information.png" width="1000" />
    
