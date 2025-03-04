@@ -26,18 +26,24 @@ After the wizard is started there are several steps that needs to be completed i
       - Project name: uniquely identifiable name "demo.travel.appvar.{your unique number}"
       - Application title: uniquely identifiable name "Demo Travel {your unique number}"
       - Project folder path: choose the project folder from the current opened workspace in the which the project should be created. 
-   2. Press the Next button.
+   2. Press the Finish button.
 <img src="img/basic-information.png" width="1000" />
+
+As soon as your SAPUI5 Adaptation Project has been created, the following message is displayed “The project has been generated and will be saved for future use.” You can view the adaptation project when you open the folder specified in Basic Information step.
+
+## Add Fiori Launchpad and Deploy configurations.
+
+After the project is generated. We should add Fiori Launchpad and Deploy configurations to the already created Adaptation Project.
+
+### 1. Open Deployment Wizard
+
+Open the folder in which the Adaptation Project is generated. When you right click on the Adaptation Project folder you will see a context menu, click on "Open Deployment Wizard" context menu item.
+
+<img src="img/open-deployment-wizard.png" width="1000" />
+
+
    
-### 3. Configuration
-   1. Enter the Configuration information required for your adaptation project:
-         - From the Select System dropdown list select the system you want to use.
-         - From the dropdown list in the Select Application field, choose "Demo App for Travel V2 (sap.demo.travel.v2)" the SAP Fiori application that will be as the basis for your application variant.
-         - To enhance the application with additional capabilities and logic, you need to select the No option in answer to Enable Safe Mode?
-   2. Press the Next button.
-   <img src="img/configuration.png" width="1000" />
-   
-### 4. Fiori Launchpad Configuration
+### 2. Add Fiori Launchpad Configuration
    
    1. Enter the Fiori Launc Fiori Launchpad Configuration required for your adaptation project:
       - In the Inbound ID field, select the inbound ID from the dropdown list.
@@ -45,9 +51,9 @@ After the wizard is started there are several steps that needs to be completed i
       - In the Subtitle field (optional), you can enter the subtitle to be displayed on the new tile.
    2. Press the Next button.
    
-   <img src="img/fiori-launchpad.png" width="1000" />
+   <img src="img/fiori-launchpad-config.png" width="1000" />
    
-### 5. Deployment Configuration
+### 3. Deployment Configuration
    1. Enter the Deployment Configuration information required for your adaptation project:
          - Enter a unique SAPUI5 ABAP Repository name.
          - Enter an optional deployment description.
@@ -64,7 +70,7 @@ After the wizard is started there are several steps that needs to be completed i
    <img src="img/deployment-configuration.png" width="1000" />
    
 
-As soon as your SAPUI5 Adaptation Project has been created, the following message is displayed “The project has been generated and will be saved for future use.” You can view the adaptation project in your Projects folder and expand the nodes in your workspace.
+
 
 
 

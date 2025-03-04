@@ -1,21 +1,21 @@
-# Chapter 3.0 - Get familiar with Control Property Editor
-
-This chapter is a Lab Preview on the Control Property Editor by the end of if you will get familiar with Control Property Editor. The current tool for such kind of adaptation is Visual Editor, but soon it will be replaced by the Control Property Editor.
+# Chapter 3.0 - Get familiar with Adaptation
 
 ## Description
 
-The Control Property Editor is a software tool that allows users to view and modify the properties and attributes of UI controls (like buttons, text fields, and images) within a software application or web page. This editor typically provides an easy-to-use graphical interface where users can adjust settings such as size, color, font, and behavior, enabling customization and fine-tuning of the user interface without the need for extensive coding knowledge.
+The Adaptation Editor is a software tool that allows users to view and modify the properties and attributes of UI controls (like buttons, text fields, and images) within a software application or web page. This editor typically provides an easy-to-use graphical interface where users can adjust settings such as size, color, font, and behavior, enabling customization and fine-tuning of the user interface without the need for extensive coding knowledge.
 
-## Start Control Property Editor
+## Start Adaptation Editor
 
-1. Open the package.json from the already created Adaptation Project from [Chapter 2.0](/chapters/2.0-get-fam-with-gen/) and scroll down to "scripts" section.
+1. Open the folder to the already created Adaptation Project from [Chapter 2.0](/chapters/2.0-get-fam-with-gen/), right click on Adaptaion Project folder and from the opened context menu click on "Open Adaptation Editor" item.
 <br/>
-<img src="img/Start_script.png" width="800">
-2. Right click on "start-editor" script and then from the opened context menu choose "Run Script". After the execution of the script the Control Property Editor will be opened in a new browser tab.
-<br/>
-<img src="img/cpe.png" width="800">
 
-## Components in Control Property Editor
+<img src="img/start-ad-editor.png" width="1000">
+
+2. After your click the Adaptation Editor will be opened in a new browser tab.
+<br/>
+<img src="img/adaptation-editor.png" width="1000">
+
+## Components in Adaptation Editor
 
 1. Property Editors:
     - Categorized Sections: Properties are organized into categories such as Appearance, Layout, Behavior, and Events. Each category can be expanded or collapsed for easy navigation.
@@ -41,5 +41,5 @@ The Control Property Editor is a software tool that allows users to view and mod
 7. Save and Reset Controls: 
    - Provides options for saving changes made to properties or resetting properties to their default values.
 
-Continue to [Chapter 4.0 - Create No Code changes with Control Property Editor](/chapters/4.0-no-code-changes/)
+Continue to [Chapter 4.0 - Create No Code changes with Adaptation Editor Editor](/chapters/4.0-no-code-changes/)
   
