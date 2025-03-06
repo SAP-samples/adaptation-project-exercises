@@ -5,7 +5,7 @@ By the end of this chapter you will have generated Adaptation Project which will
 ## Start the Adaptation Project Wizard 
    1. Log onto SAP Business Application Studio (BAS) and access your SAP Fiori development space.
 
-   2. Click the menu icon -> New Project from Template, select SAPUI5 Adaptation Project template, and choose the Start button.
+   2. Click the menu icon -> File -> New Project from Template, select SAPUI5 Adaptation Project template, and choose the Start button.
 <img src="img/template-wizard.png" width="800">
 
 ## Create Apdaptation Project
@@ -16,7 +16,6 @@ After the wizard is started there are several steps that needs to be completed i
    1. Enter the Configuration information required for your adaptation project:
          - From the Select System dropdown list select the system you want to use.
          - From the dropdown list in the Select Application field, choose "Demo App for Travel V2 (sap.demo.travel.v2)" the SAP Fiori application that will be as the basis for your application variant.
-         - To enhance the application with additional capabilities and logic, you need to select the No option in answer to Enable Safe Mode?
    2. Press the Next button.
 <img src="img/configuration.png" width="1000" />
 
