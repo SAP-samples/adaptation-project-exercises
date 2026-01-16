@@ -28,6 +28,6 @@ After the wizard is started there are several steps that needs to be completed i
    2. Press the Finish button.
 <img src="img/basic-information.png" width="1000" />
 
-As soon as your SAPUI5 Adaptation Project has been created, the following message is displayed “The project has been generated and will be saved for future use.” You can view the adaptation project when you open the folder specified in Basic Information step.
+As soon as your SAPUI5 Adaptation Project has been created, a message asking "The project: '/path/to/your/project' is not in the workspace. Some adaptation project tools may not work. What do you want to do?". Select 'Add project to workspace', so you can proceed with adding your project to workspace. The page will refresh in order to load the new workspace.
 
 Continue to [Chapter 3.0 - Get familiar with Adaptation Editor!](/chapters/3.0-get-fam-with-cpe/)

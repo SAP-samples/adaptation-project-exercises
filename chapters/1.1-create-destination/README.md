@@ -10,9 +10,9 @@ If you haven't saved your service key in one of the previous steps, navigate to 
 
 ## 3.2 Import destination
 
-Navigate to your **Global Account** > **Trial Subaccount** > **Connectivity** > **Desitnations** and click on the **Import Destination** button and select our prepare destination found in this repo under the current chapter: ```abap_trial```
+Navigate to your **Global Account** > **Trial Subaccount** > **Connectivity** > **Destinations** and click on the **Create** button and in the popup that shows, select **From File** and then select our prepared destination found in this repo under the current chapter: ```abap_trial```
 
-<img src="img/ImportDestination.png" width="900">
+<img src="img/ImportDestination2.png" width="900">
 
 Fill in your destination with the information from your service key.
 
