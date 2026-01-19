@@ -16,4 +16,6 @@
    
 <img src="img/varman3.png" width="800">
 
+   7. You should now switch to the standard variant, because the next type of change only applies to the standard variant.
+
 Continue to [Chapter 4.2 - Do your first add fragement change](/chapters/4.2-fragment-change/)
