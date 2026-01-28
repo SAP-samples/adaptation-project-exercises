@@ -8,7 +8,7 @@
 <img src="img/varman1.png" width="800"> 
   
    3. Choose a name for your View (variant) and select would it be default and if it should be applied automatically. Click on Save.
-   4. Start making changes - for example do a property change over the FilterBar to hide the Go button - set the property 'Show Go on FB' to false. The result of this action is that this change is only added to the variant you just created and not the main variant.
+   4. Start making changes - for example do a property change over the FilterBar to show or hide the Clear button - set the property 'Show Clear OnFB' to false or true to hide or show the Clear button next to the Go button. The result of this action is that this change is only added to the variant you just created and not the main variant.
    5. To manage already created views(variants) right-click the arrow icon next to the application title and select Manage Views. This view gives you the option to changes names or the properties of the already created variants. 
 <img src="img/varman2.png" width="800">
 
