@@ -30,8 +30,9 @@ You will find some new content created by the deployment:
 8. Go to **Authorizations** tab and click on **Synchronize**
 9. Go back to **Overview** page and click on **Publish Locally**
 10. Click on **Assign the App to an existing Catalog**
-11. Enter **ZUI5_CON_ADAPTATIONS** as Business Catalog name
+11. Enter **ZUI5_ADAPTATIONS** as Business Catalog name
 This catalog is already assigned to a business role which is assigned to your user.
 12. On the next page specify your transport
+
 
 Continue to [Chapter 8.0 - Run your application variant in the SAP Fiori launchpad](/chapters/8.0-run-in-flp/)
