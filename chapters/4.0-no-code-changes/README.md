@@ -9,7 +9,7 @@ Let's start editing our Adpatation Project from [Chapter 2.0](/chapters/2.0-get-
 
 ## 1. Rename section
    - Switch to "UI Adaptation" mode.
-   - Right click on some item from "Travel" section you should see context menu, click on "Rename" item, then the label from the clicked item should be marked and now you are able to rename it, once you rename it press enter. You will see that the label is renamed and unsaved change is shown in changes tab.
+   - Right click on the title of "Travel" section and you should see context menu, click on "Rename" item, then the title of the clicked section should be marked and now you are able to rename it, once you rename it press enter. You will see that the label is renamed and unsaved change is shown in changes tab.
 <img src="img/unsaved-rename-change.png" width="1000"/>
    If you want to save your change you should click on "Save" button in the menu toolbar located on the top of the application. Once you do it in changes tab you will see that the status on your unsaved changes has been changed. If you want to see the generated change file you should open "webapp/changes/" folder of your application in BAS.
 <img src="img/saved-rename-change.png" width="1000" style="margin-top:10px"/>
