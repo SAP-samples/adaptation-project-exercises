@@ -11,7 +11,7 @@ The Adaptation Editor is a software tool that allows users to view and modify th
 
 <img src="img/start-ad-editor.png" width="1000">
 
-2. After your click the Adaptation Editor will be opened in a new browser tab.
+2. After your click the Adaptation Editor will be opened in a new browser tab. If no browser tab opens, check for a popup blocker message in your browser and switch it off for this site.
 <br/>
 <img src="img/adaptation-editor.png" width="1000">
 
